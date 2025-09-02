@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [[https://khushal-portfolio-bice.vercel.app](https://khushal-portfolio-bice.vercel.app](https://khushalv2.netlify.app))
-
+- 👨‍💻 All of my projects are available at [https://khushalv2.netlify.app ]
 - 💬 Ask me about **tensorflow, scikitlearn, Keras, Python**
 
 - 📫 How to reach me **khushal.singh1123@gmail.com**
